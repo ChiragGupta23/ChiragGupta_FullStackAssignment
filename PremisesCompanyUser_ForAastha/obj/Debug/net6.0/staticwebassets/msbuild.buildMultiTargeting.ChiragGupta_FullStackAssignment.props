@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ChiragGupta_FullStackAssignment.props" />
+</Project>
